@@ -1,5 +1,5 @@
 body{
-    background-color:rgb(189, 204, 204);
+    background:linear-gradient(gray, darkcyan);
 }
 h1{
     color:firebrick;
